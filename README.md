@@ -10,7 +10,6 @@ The accuracy of the doc class net classifier and line class net classifier(line 
 
 OCR has real-time applications in various fields like medical prescriptions, smart libraries, and tax returns.
 
-
-
 Research paper: Optical Character Recognition Using Deep Learning Techniques for Printed and Handwritten Documents
+
 Link: https://ssrn.com/abstract=3664620 (Elsevier SSRN Repository)
