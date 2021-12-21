@@ -12,6 +12,5 @@ OCR has real-time applications in various fields like medical prescriptions, sma
 
 
 
-Research paper: Optical Character Recognition Using Deep Learning Techniques for Printed and Handwritten Documents 
-
+Research paper: Optical Character Recognition Using Deep Learning Techniques for Printed and Handwritten Documents
 Link: https://ssrn.com/abstract=3664620 (Elsevier SSRN Repository)
